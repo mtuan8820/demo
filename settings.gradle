@@ -3,3 +3,5 @@ rootProject.name = 'demo'
 include 'model'
 include 'application'
 
+
+include 'adapter'
